@@ -37,6 +37,8 @@ Developed key performance indicators (KPIs) to assess overall business performan
 
 ⚖️ Average Pizzas per Order – Calculated by dividing total pizzas sold by total number of orders.
 
+https://github.com/Simranki/Pizza-Sales-dashboard/blob/main/KPI's.png
+
 These KPIs provide quick, actionable insights into sales performance, customer behavior, and product demand trends.
 
 📈 Visual Insights & Trend Analysis:
