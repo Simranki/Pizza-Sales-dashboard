@@ -61,6 +61,8 @@ These insights help identify high-performing products driving business growth.
 
 📉 Bottom 5 Worst Sellers – Bar chart showing the bottom 5 pizzas by:Revenue,Quantity Sold,Number of Orders
 
+https://github.com/Simranki/Pizza-Sales-dashboard/blob/main/Best_Worst%20sellers.png
+
 Useful for spotting underperforming items and exploring opportunities to improve or replace them.
 
 
